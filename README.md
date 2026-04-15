@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
+  <img src="https://miro.medium.com/max/2048/1*img width="225" height="224" alt="images" src="https://github.com/user-attachments/assets/978983a4-551f-4420-8989-f178589fa909"" height="200"/>
 </p>
+
 
 <h1 align="center">Chirashsr here!!</h1>
 
